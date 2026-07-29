@@ -65,22 +65,56 @@ I'm a Computer Science undergraduate who likes finishing what I start — not ju
 
 ## More Projects
 
-<div align="center">
+<table align="center">
+<tr>
+<td width="50%" valign="top">
 
-<a href="https://github.com/Susmitha-Peravali/Zyviora_Personal_Companion">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Susmitha-Peravali&repo=Zyviora_Personal_Companion&theme=default&hide_border=true" />
-</a>
-<a href="https://github.com/pankajydv07/BizVaani">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=pankajydv07&repo=BizVaani&theme=default&hide_border=true" />
-</a>
-<a href="https://github.com/Susmitha-Peravali/Tech_Resale_Hub">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Susmitha-Peravali&repo=Tech_Resale_Hub&theme=default&hide_border=true" />
-</a>
-<a href="https://github.com/Susmitha-Peravali/Sendora-Email_Scheduler">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Susmitha-Peravali&repo=Sendora-Email_Scheduler&theme=default&hide_border=true" />
-</a>
+**🤖 Zyviora — Hybrid AI Companion System**
+<br/>
+<sub>Flask · Python · Prolog · Google Gemini API</sub>
+<br/>
+Symbolic reasoning (Prolog) + LLM inference for context-aware task assistance.
+<br/>
+[Source](https://github.com/Susmitha-Peravali/Zyviora_Personal_Companion) · [Live Demo](https://zyviora-personal-companion.onrender.com/)
 
-</div>
+</td>
+<td width="50%" valign="top">
+
+**🛍️ BizVaani — Voice-First Retail OS**
+<br/>
+<sub>React · Next.js · Tailwind · WebSockets</sub>
+<br/>
+Real-time retail dashboards with WebSocket-driven live inventory sync.
+<br/>
+[Source](https://github.com/pankajydv07/BizVaani) · [Live Demo](https://biz-vaani.vercel.app/)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**🛒 Tech Resale Hub — Marketplace Platform**
+<br/>
+<sub>Node.js · Express · MongoDB · Socket.io</sub>
+<br/>
+Role-based marketplace (Buyer/Seller/Admin) with JWT auth and real-time messaging.
+<br/>
+[Source](https://github.com/Susmitha-Peravali/Tech_Resale_Hub)
+
+</td>
+<td width="50%" valign="top">
+
+**📧 Sendora — Email Scheduler**
+<br/>
+<sub>TypeScript · BullMQ · Redis · PostgreSQL</sub>
+<br/>
+Production-grade scheduling engine — see Featured Project above.
+<br/>
+[Source](https://github.com/Susmitha-Peravali/Sendora-Email_Scheduler) · [Live Demo](https://sendora-email-scheduler.vercel.app)
+
+</td>
+</tr>
+</table>
 
 <br/>
 
@@ -93,9 +127,11 @@ I'm a Computer Science undergraduate who likes finishing what I start — not ju
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Susmitha-Peravali&theme=default&hide_border=true" />
+<img src="https://streak-stats.demolab.com?user=Susmitha-Peravali&theme=default&hide_border=true" />
 
 </div>
+
+> **Note:** the two cards above depend on a shared public service that occasionally rate-limits or goes down (a known, ongoing issue — not specific to this profile). If they show broken images, refresh the page in a few minutes, or see the "Making the stats cards bulletproof" note at the bottom of this file for a permanent self-hosted fix.
 
 <br/>
 
@@ -107,6 +143,8 @@ I'm a Computer Science undergraduate who likes finishing what I start — not ju
 
 </div>
 
+<sub>If this doesn't render, it's the same shared-demo-instance issue as above — safe to remove this section entirely without losing anything essential; it's decorative.</sub>
+
 <br/>
 
 <div align="center">
@@ -114,3 +152,22 @@ I'm a Computer Science undergraduate who likes finishing what I start — not ju
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:16A34A,100:5B5FEF&height=120&section=footer"/>
 
 </div>
+
+<br/>
+
+<details>
+<summary><b>Making the stats cards bulletproof (optional, one-time setup)</b></summary>
+
+<br/>
+
+The GitHub Stats and Top Languages cards above use the public `github-readme-stats.vercel.app` demo instance, which is shared by hundreds of thousands of profiles and can occasionally rate-limit or pause. Since you already have a free Vercel account (used for the Sendora deployment), you can get a fully private, always-reliable instance in about 5 minutes:
+
+1. Fork [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats)
+2. Go to [vercel.com/new](https://vercel.com/new) and import your fork
+3. Deploy it with default settings — Vercel gives you a URL like `your-fork-name.vercel.app`
+4. Replace `github-readme-stats.vercel.app` in this README with your own deployment's URL
+
+This removes any dependency on the shared public instance entirely.
+
+</details>
+
