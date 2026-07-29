@@ -1,6 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:5B5FEF,100:16A34A&height=220&section=header&text=Naga%20Teja%20Susmitha%20Peravali&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20Systems%20%26%20Backend%20Engineering&descAlignY=55&descSize=18" width="100%"/>
+# 👋 Naga Teja Susmitha Peravali
+
+### Full Stack Developer &nbsp;|&nbsp; Systems &amp; Backend Engineering
 
 <a href="https://linkedin.com/in/susmitha-peravali-a57438291">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
@@ -149,7 +151,9 @@ Production-grade scheduling engine — see Featured Project above.
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:16A34A,100:5B5FEF&height=120&section=footer"/>
+---
+
+*Thanks for stopping by — always happy to talk backend architecture, queues, or systems design.*
 
 </div>
 
@@ -169,5 +173,4 @@ The GitHub Stats and Top Languages cards above use the public `github-readme-sta
 
 This removes any dependency on the shared public instance entirely.
 
-</details>
-
+**Want the animated gradient banner back?** It was removed above because `capsule-render.vercel.app`'s own maintainers state it's "best-effort" and can be unstable — same fix applies: fork [kyechan99/capsule-render](https://github.com/kyechan99/capsule-render), deploy your own Vercel instance, then add back:
