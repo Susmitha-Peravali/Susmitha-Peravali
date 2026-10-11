@@ -296,17 +296,7 @@ A marketplace application with buyer, seller, and admin roles, authentication, a
 
 <br/>
 
-## Contribution Graph
 
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Susmitha-Peravali&theme=react-dark&hide_border=true" width="100%" alt="Contribution Graph" />
-
-</div>
-
-<br/>
-
-<div align="center">
 
 ---
 
