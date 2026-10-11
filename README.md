@@ -1,4 +1,4 @@
-<div align="center">
+<!-- <div align="center">
 
 # 👋 Naga Teja Susmitha Peravali
 
@@ -173,4 +173,143 @@ The GitHub Stats and Top Languages cards above use the public `github-readme-sta
 
 This removes any dependency on the shared public instance entirely.
 
-**Want the animated gradient banner back?** It was removed above because `capsule-render.vercel.app`'s own maintainers state it's "best-effort" and can be unstable — same fix applies: fork [kyechan99/capsule-render](https://github.com/kyechan99/capsule-render), deploy your own Vercel instance, then add back:
+**Want the animated gradient banner back?** It was removed above because `capsule-render.vercel.app`'s own maintainers state it's "best-effort" and can be unstable — same fix applies: fork [kyechan99/capsule-render](https://github.com/kyechan99/capsule-render), deploy your own Vercel instance, then add back: -->
+
+ <div align="center">
+
+# 👋 Naga Teja Susmitha Peravali
+
+### Full Stack Developer &nbsp;|&nbsp; Backend Engineering
+
+<a href="https://linkedin.com/in/susmitha-peravali-a57438291">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="mailto:teja.peravali0@gmail.com">
+  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+<a href="https://leetcode.com/u/leetcoder_learner/">
+  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+</a>
+
+<br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=800&color=5B5FEF&center=true&vCenter=true&width=600&lines=Building+Full+Stack+Applications;Exploring+Backend+Systems+%26+APIs;Developing+Practical+AI-Powered+Solutions;Learning+Through+Building+%26+Problem+Solving" alt="Typing SVG" />
+
+</div>
+
+<br/>
+
+## About Me
+
+I'm a Computer Science undergraduate at SRM University–AP who enjoys building practical applications and solving problems through code. I'm interested in full-stack development, backend engineering, and AI-powered applications, with a focus on writing maintainable code and building useful software.
+
+- 🔭 Working on full-stack applications and exploring backend system design
+- 🌱 Learning more about scalable APIs, databases, and distributed systems
+- 💬 Interested in web development, DSA, and AI integration
+- 🏆 Top 12 Finalist, Mission Schrödinger Cat National Hackathon (200+ participants)
+- 📫 Reach me at **teja.peravali0@gmail.com**
+
+<br/>
+
+## Tech Stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=cpp,python,js,ts,react,nextjs,nodejs,express,flask,html,css,tailwind,mongodb,mysql,postgres,redis,docker,git,github,figma,vscode,postman&theme=dark" />
+
+</div>
+
+<br/>
+
+## Projects
+
+<div align="center">
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🚀 Sendora — Email Scheduler
+
+<sub>TypeScript · React · Node.js · BullMQ · Redis · PostgreSQL</sub>
+
+A full-stack email scheduling platform featuring delayed job processing, rate limiting, reliable job handling, and a web-based interface.
+
+**[Live Demo](https://sendora-email-scheduler.vercel.app)** · **[Source Code](https://github.com/Susmitha-Peravali/Sendora-Email_Scheduler)**
+
+</td>
+<td width="50%" valign="top">
+
+### 🤖 Zyviora — AI Companion
+
+<sub>Python · Flask · Prolog · Google Gemini API</sub>
+
+An AI-powered personal companion combining symbolic reasoning and language-model responses for context-aware assistance.
+
+**[Live Demo](https://zyviora-personal-companion.onrender.com/)** · **[Source Code](https://github.com/Susmitha-Peravali/Zyviora_Personal_Companion)**
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🛍️ BizVaani — Voice-First Retail Platform
+
+<sub>React · Next.js · Tailwind CSS · WebSockets</sub>
+
+A retail platform concept featuring interactive dashboards and real-time inventory updates.
+
+**[Live Demo](https://biz-vaani.vercel.app/)** · **[Source Code](https://github.com/pankajydv07/BizVaani)**
+
+</td>
+<td width="50%" valign="top">
+
+### 🛒 Tech Resale Hub — Marketplace
+
+<sub>Node.js · Express · MongoDB · Socket.IO · JWT</sub>
+
+A marketplace application with buyer, seller, and admin roles, authentication, and real-time messaging.
+
+**[Source Code](https://github.com/Susmitha-Peravali/Tech_Resale_Hub)**
+
+</td>
+</tr>
+</table>
+
+</div>
+
+<br/>
+
+## GitHub Stats
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Susmitha-Peravali&show_icons=true&theme=default&hide_border=true" alt="GitHub Stats" />
+
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Susmitha-Peravali&layout=compact&theme=default&hide_border=true" alt="Top Languages" />
+
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=Susmitha-Peravali&theme=default&hide_border=true" alt="GitHub Streak" />
+
+</div>
+
+<br/>
+
+## Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Susmitha-Peravali&theme=react-dark&hide_border=true" width="100%" alt="Contribution Graph" />
+
+</div>
+
+<br/>
+
+<div align="center">
+
+---
+
+*Thanks for visiting my profile! Always learning, building, and improving.*
+
+</div>
